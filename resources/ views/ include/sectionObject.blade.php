@@ -31,6 +31,5 @@
 				</div>
 			</div>
 		</div>
-        @yield('object')
 	</div>
 </section>	
