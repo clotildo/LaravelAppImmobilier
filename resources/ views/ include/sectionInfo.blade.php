@@ -47,5 +47,6 @@
 			</div>
 			
 		</div>
+        @yield('info')
 	</div>
 </section>
