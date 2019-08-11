@@ -5,7 +5,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>ARTICLE IMMOBILIER</title>
+	<title>IMMOBILIER</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 
@@ -90,9 +90,9 @@
 					<div class="col-md-8 col-md-offset-2 text-center animate-box">
 						<div class="flexslider-controls">
 						   <ol class="flex-control-nav">
-						      <li class="animate-box"><img src="images/person4.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
-						      <li class="animate-box"><img src="images/person2.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
-						      <li class="animate-box"><img src="images/person3.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
+						      <li class="animate-box"><img src="images/person.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
+						      <li class="animate-box"><img src="images/perso.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
+						      <li class="animate-box"><img src="images/pers3.jpg" alt="Free HTML5 Bootstrap Template by FREEHTML5.co"></li>
 						   </ol>
 						</div>
 					</div>
@@ -106,10 +106,12 @@
 		
 				<h3 class="animate-box"><label for="email">Subscribe to our newsletter</label></h3>
 				<form action="#" method="post" class="animate-box">
+					<h3 class="animate-box"><label for="email">Abonnez vous à notre page</label></h3>
+				<form action="#" method="post" class="animate-box">
 					<i class="fh5co-icon icon-paper-plane"></i>
-					<input type="email" class="form-control" placeholder="Enter your email" id="email" name="email">
-					<input type="submit" value="Send" class="btn btn-primary">
-				</form>
+					<input type="email" class="form-control" placeholder="Entrez votre email" id="email" name="email">
+					<input type="submit" value="Envoyer" class="btn btn-primary">
+ 				</form>
 
 			</div>
 		</section>
