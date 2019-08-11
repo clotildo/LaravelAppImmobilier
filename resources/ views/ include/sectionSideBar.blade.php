@@ -15,6 +15,5 @@
 			<span class="text">Voir plus </span>
 			<span class="arrow"><i class="icon-chevron-down"></i></span>
 		</a>
-        @yield('sidebar')
 	</div>
 </section>
